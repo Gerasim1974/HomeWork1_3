@@ -1,0 +1,15 @@
+C:\WorkProgramm\HomeWork_1_3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+C:\WorkProgramm\HomeWork_1_3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkProgramm\HomeWork_1_3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\WorkProgramm\HomeWork_1_3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+C:\WorkProgramm\HomeWork_1_3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\WorkProgramm\HomeWork_1_3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+C:\WorkProgramm\HomeWork_1_3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+C:\WorkProgramm\HomeWork_1_3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+C:\WorkProgramm\HomeWork_1_3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+C:\WorkProgramm\HomeWork_1_3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+C:\WorkProgramm\HomeWork_1_3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+C:\WorkProgramm\HomeWork_1_3\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+C:\WorkProgramm\HomeWork_1_3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+C:\WorkProgramm\HomeWork_1_3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+C:\WorkProgramm\HomeWork_1_3\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
